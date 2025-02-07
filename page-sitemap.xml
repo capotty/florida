@@ -2,7 +2,10 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2025-02-05T21:51:47+00:00</lastmod>
+		<lastmod>2025-02-06T18:16:38+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/authorized-dealer.jpeg</image:loc>
+		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/11/40-ft-container-1-1024x580.webp</image:loc>
 		</image:image>
@@ -21,83 +24,83 @@
 	</url>
 	<url>
 		<loc>/fort-lauderdale/</loc>
-		<lastmod>2025-02-06T03:50:45+00:00</lastmod>
+		<lastmod>2025-02-07T02:23:41+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/cape-coral/</loc>
-		<lastmod>2025-02-06T03:50:45+00:00</lastmod>
+		<lastmod>2025-02-07T02:23:41+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/hialeah/</loc>
-		<lastmod>2025-02-06T03:50:44+00:00</lastmod>
+		<lastmod>2025-02-07T02:23:40+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/tallahassee/</loc>
-		<lastmod>2025-02-06T03:50:44+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/tampa/</loc>
-		<lastmod>2025-02-06T03:50:43+00:00</lastmod>
+		<lastmod>2025-02-07T02:23:40+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/orlando/</loc>
-		<lastmod>2025-02-06T03:50:43+00:00</lastmod>
+		<lastmod>2025-02-07T02:23:39+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/st-petersburg/</loc>
-		<lastmod>2025-02-06T03:50:43+00:00</lastmod>
+		<lastmod>2025-02-07T02:23:39+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/miami/</loc>
-		<lastmod>2025-02-06T03:50:42+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/west-palm-beach/</loc>
-		<lastmod>2025-02-06T03:50:42+00:00</lastmod>
+		<loc>/tampa/</loc>
+		<lastmod>2025-02-07T02:23:38+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/lakeland/</loc>
-		<lastmod>2025-02-06T03:50:42+00:00</lastmod>
+		<lastmod>2025-02-07T02:23:38+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/miami/</loc>
+		<lastmod>2025-02-07T02:23:38+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/west-palm-beach/</loc>
+		<lastmod>2025-02-07T02:23:37+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/palm-bay/</loc>
-		<lastmod>2025-02-06T03:50:41+00:00</lastmod>
+		<lastmod>2025-02-07T02:23:37+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/pompano-beach/</loc>
-		<lastmod>2025-02-06T03:50:41+00:00</lastmod>
+		<lastmod>2025-02-07T02:23:37+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/clearwater/</loc>
-		<lastmod>2025-02-06T03:50:40+00:00</lastmod>
+		<lastmod>2025-02-07T02:23:36+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/miami-gardens/</loc>
-		<lastmod>2025-02-06T03:50:40+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/coral-springs/</loc>
-		<lastmod>2025-02-06T03:50:40+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/hollywood/</loc>
-		<lastmod>2025-02-06T03:50:39+00:00</lastmod>
+		<lastmod>2025-02-07T02:23:36+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/gainesville/</loc>
-		<lastmod>2025-02-06T03:50:39+00:00</lastmod>
+		<lastmod>2025-02-07T02:23:35+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/miramar/</loc>
-		<lastmod>2025-02-06T03:50:39+00:00</lastmod>
+		<lastmod>2025-02-07T02:23:35+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/jacksonville/</loc>
-		<lastmod>2025-02-06T03:50:38+00:00</lastmod>
+		<loc>/coral-springs/</loc>
+		<lastmod>2025-02-07T02:23:35+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/pembroke-pines/</loc>
-		<lastmod>2025-02-06T03:50:38+00:00</lastmod>
+		<lastmod>2025-02-07T02:23:34+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/hollywood/</loc>
+		<lastmod>2025-02-07T02:23:34+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/jacksonville/</loc>
+		<lastmod>2025-02-07T02:23:33+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/rentals/</loc>
